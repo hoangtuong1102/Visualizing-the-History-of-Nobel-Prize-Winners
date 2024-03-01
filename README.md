@@ -1,4 +1,4 @@
-# Visualizing-the-History-of-Nobel-Prize-Winners
+# Analyze-the-History-of-Nobel-Prize-Winners
 Analyze Nobel Prize winner data and identify patterns by answering the following questions:
 
 What is the most commonly awarded gender and birth country? Storing the string answers as **top_gender** and **top_country**.
